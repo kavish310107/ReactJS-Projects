@@ -1,16 +1,35 @@
-# React + Vite
+📍 Travel Journal (Static Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧭 Travel Journal
 
-Currently, two official plugins are available:
+A static web application that showcases memorable travel destinations in a visually appealing card-based layout. This project focuses on layout design, component reuse, and clean UI presentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## React Compiler
+Destination cards with images, titles, and descriptions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Clean and responsive layout
 
-## Expanding the ESLint configuration
+Reusable React components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Static content rendering (no user interaction)
+
+🛠 Tech Stack
+
+React (Vite)
+
+HTML5
+
+CSS3
+
+JavaScript (ES6)
+
+🎯 Learning Outcomes
+
+Component-based UI design
+
+Props usage in React
+
+Styling and layout structuring
+
+Building static React projects
