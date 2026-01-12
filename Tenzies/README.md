@@ -1,16 +1,39 @@
-# React + Vite
+🎲 Tenzies Game (Capstone Project – Dynamic)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎯 Tenzies Game
 
-Currently, two official plugins are available:
+A fully interactive dice game where players roll dice until all dice show the same number. Players can freeze selected dice and continue rolling until they win.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
 
-## React Compiler
+Random dice generation
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Hold/unhold dice logic
 
-## Expanding the ESLint configuration
+Win condition detection
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Game reset functionality
+
+🛠 Tech Stack
+
+React (Vite)
+
+JavaScript (ES6)
+
+HTML5
+
+CSS3
+
+🎯 Learning Outcomes
+
+Advanced state management
+
+Game logic implementation
+
+Event handling
+
+Conditional rendering
+
+
+<img width="1365" height="602" alt="image" src="https://github.com/user-attachments/assets/82213431-fef4-40c3-bd27-02ffc80fcb11" />
+<img width="1331" height="581" alt="image" src="https://github.com/user-attachments/assets/ac4edd48-9b58-4fb1-bd66-30b08ca1f1cf" />
