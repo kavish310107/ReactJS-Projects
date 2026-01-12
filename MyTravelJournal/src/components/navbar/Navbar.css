@@ -1,0 +1,14 @@
+.navbar{
+    height : 60px;
+    background-color: rgb(33, 139, 33);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+#logo{
+    height: 100%;
+    width: auto;
+}
+

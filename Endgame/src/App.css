@@ -1,0 +1,102 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.result{
+  width: 620px;
+  height: 80px;
+  background-color: rgb(24, 177, 24);
+}
+.result2{
+  width: 620px;
+  height: 80px;
+  background-color: #d624248f;
+  color: white;
+}
+.result3{
+   width: 620px;
+  height: 80px;
+  background-color: #4c69eb;
+  color: white;
+}
+.languages{
+  width: 620px;
+  height: 70px;
+}
+ul{
+  list-style : none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+
+}
+.listel{
+  width: 100px;
+  border-radius: 15%;
+}
+.lost {
+  width: 100px;
+  border-radius: 15%;
+  opacity: 0.1;
+}
+.enterword{
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.letters{
+  height: 30px;
+  width: 40px;
+  background-color: #575757;
+  margin: 2px;
+  border-bottom: 2px solid white;
+}
+.keyboard{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  flex-wrap: wrap;
+  width : 540px;
+  position : relative;
+  left : 20px;
+}
+.alphabet{
+  height: 30px;
+  width: 40px;
+  background-color: #2de91c;
+  margin: 2px;
+  border-radius: 20%;
+}
+.alphabetright{
+height: 30px;
+  width: 40px;
+  background-color: #3ae02ecb;
+  margin: 2px;
+  border-radius: 20%;
+  color: white;
+}
+.alphabetwrong{
+height: 30px;
+  width: 40px;
+  background-color: #e622228f;
+  margin: 2px;
+  border-radius: 20%;
+  color: white;
+
+}
+.NewGame{
+  background-color: #2BB0E6;
+  width: 150px;
+  height: 30px;
+  margin-top: 30px;
+  position: relative;
+  right: 25px;
+  border-radius: 10%;
+}

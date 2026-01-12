@@ -1,0 +1,20 @@
+.off{
+    height: 200px;
+    width: 200px;
+    gap: 30px;
+    margin: 10px;
+    opacity: 0.1;
+}
+
+.on{
+    height: 200px;
+    width: 200px;
+    gap: 30px;
+    margin: 10px;
+    opacity: 1;
+}
+.offbutton{
+    height: 30px;
+    width: 30px;
+    
+}

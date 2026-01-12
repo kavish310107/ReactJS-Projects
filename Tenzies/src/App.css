@@ -1,0 +1,38 @@
+.mainbox{
+  height: 600px;
+  width: 90%;
+  background-color: white;
+  display: flex;
+  justify-self: center;
+  align-self: center;
+  margin: 30px;
+  background-image: linear-gradient(to right,yellow,white);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.diebox{
+  height: 300px;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.changenumbers{
+  background-color: blue;
+  color: yellow;
+  height: 60px;
+  width: 150px;
+  box-shadow: 10px 10px 10px black;
+  margin-top: 20px;
+}
+
+.description{
+  margin-bottom : 30px;
+  font-size : large;
+}

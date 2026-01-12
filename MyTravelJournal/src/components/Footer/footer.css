@@ -1,0 +1,13 @@
+.foot{
+    background-color:mediumblue;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{color: yellow;}
+#name{
+    size: large;
+    text-transform: uppercase;
+}

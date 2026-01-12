@@ -1,0 +1,28 @@
+.main{
+    height: 280px;
+    width : 40%;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: nowrap;
+    border-radius: 20%;
+    top : 20px;
+    align-items: center;
+    background-color: blueviolet;
+}
+img{
+    height: 60%;
+    width: auto;
+    image-rendering: pixelated;
+    border-radius: 30%;
+
+}
+.content{
+    color: yellow;
+}
+a,h3{
+    color: yellowgreen;
+}
+
+#button1{
+    background-color: rgb(192, 124, 255);
+}

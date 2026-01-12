@@ -1,0 +1,27 @@
+*{
+  color: black;
+}
+.box{
+  height: 500px;
+  width: 500px;
+  background-color: rgb(197, 226, 31);
+  flex-direction: row;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+}
+div{
+  display: flex;
+  justify-content: center;
+}
+#img{
+  height: 400px;
+  width: 220px;
+}
+.movie{
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  align-items: center;
+}
+
